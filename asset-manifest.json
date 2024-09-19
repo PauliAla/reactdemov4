@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactdemov4/static/css/main.f855e6bc.css",
+    "main.js": "/reactdemov4/static/js/main.c4bb4890.js",
+    "static/media/omakuva.jpg": "/reactdemov4/static/media/omakuva.d0280c6315c83f9f5aff.jpg",
+    "index.html": "/reactdemov4/index.html",
+    "main.f855e6bc.css.map": "/reactdemov4/static/css/main.f855e6bc.css.map",
+    "main.c4bb4890.js.map": "/reactdemov4/static/js/main.c4bb4890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c4bb4890.js"
+  ]
+}
